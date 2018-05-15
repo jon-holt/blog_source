@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://jon-holt.github.io/"
 title = "Jane - A dope concise theme for Hugo"
 enableRobotsTXT = true
 enableEmoji = true
